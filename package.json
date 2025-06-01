@@ -1,30 +1,30 @@
 {
-    "name": "by.sinti.street.racer.urp",
-    "version": "1.0.0",
-    "displayName": "Sinti Polygon Street Racer URP",
-    "description": "Low Poly asset pack of modular vehicles, characters, props, weapons and environment assets to create a Street Racer themed polygonal style game. OVER 1000 Detailed prefabs are included with this pack.",
-    "unity": "2022.3",
-    "documentationUrl": "",
-    "changelogUrl": "",
-    "licensesUrl": "",
-    "keywords": [
-        "3d",
-        "low poly"
-    ],
-    "author": {
-        "name": "jobpatchh",
-        "email": "user@noreply.com",
-        "url": "https://github.com/jobpatchh"
-    },
-    "type": "3d",
-    "dependencies": {
-        "com.unity.render-pipelines.universal": "11.0.0"
-    },
-    "samples": [
-        {
-            "displayName": "Polygon Street Racer",
-            "description": "OVER 1000 Detailed prefabs are included.",
-            "path": "Samples~/Polygon Street Racer"
-        }
+  "name": "by.sinti.streetracer.urp",
+  "version": "1.0.0",
+  "displayName": "Sinti Polygon Street Racer URP",
+  "description": "Low Poly asset pack of modular vehicles, characters, props, weapons and environment assets to create a Street Racer themed polygonal style game. OVER 1000 Detailed prefabs are included with this pack.",
+  "unity": "2022.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "3d",
+    "low poly"
+  ],
+  "author": {
+    "name": "jobpatchh",
+    "email": "user@noreply.com",
+    "url": "https://github.com/jobpatchh"
+  },
+  "type": "3d",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "11.0.0"
+  }, 
+  "samples": [
+	{
+		"displayName": "Polygon Street Racer",
+		"description": "OVER 1000 Detailed prefabs are included.",
+		"path": "Samples~/Polygon Street Racer"
+	}
     ]
 }
